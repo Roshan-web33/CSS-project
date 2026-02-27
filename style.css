@@ -16,4 +16,9 @@ p{
 #para{
     color: green;
 }
-span{ color: black;}
+span{ 
+    color: black;
+    height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
