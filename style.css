@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+.head{
+    color: blue;
+}
+#bglime{background-color: brown;
+    color: blue;
+    }
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: brown;
+    text-transform: uppercase;
+}
+#para{
+    color: green;
+}
+span{ color: black;}
